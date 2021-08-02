@@ -1,6 +1,5 @@
 Array.prototype.at = at
 
-
 /**
  * @param {number} index
  */
