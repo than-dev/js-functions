@@ -1,0 +1,18 @@
+{
+  "name": "JS-Functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "typings": "./@types/map.d.ts",
+  "scripts": {
+    "compile-declarations": "tsc --declaration",
+    "clean-declarations": "tsc --declaration --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.4",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "tsd": "^0.17.0"
+  }
+}

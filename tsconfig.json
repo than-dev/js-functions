@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outDir": "@types",
+    "allowJs": true,                           
+    "declaration": true,
+    "emitDeclarationOnly": true,
+  },
+  "include": [
+    "functions/*"
+  ]
+}
