@@ -13,9 +13,9 @@ function reduce(callback, initialValue = undefined) {
     let accumulator = initialValue ? initialValue : array[0] 
 
 	for (let i = 0; i < array.length; i++) {
-		const newAcc = callback(accumulator, array[i], i, array)
+		const newAccumulator = callback(accumulator, array[i], i, array)
 
-        accumulator = newAcc
+        accumulator = newAccumulator
     }
     
     return accumulator
