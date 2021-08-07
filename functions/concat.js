@@ -15,7 +15,7 @@ function concat(...valuesToConcat) {
         if(value.length === 0) continue
         
         
-        if (value[0]) {
+        if (Array.isArray(value)) {
             for (subValue of value) {
                 newArray.push(subValue)
             }
