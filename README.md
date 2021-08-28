@@ -31,6 +31,7 @@
 + Array.prototype.map()
 + Array.prototype.reduce()
 + Array.prototype.some()
++ Array.prototype.copyWithin()
 
 <br>
 <hr>
