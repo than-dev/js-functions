@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img src="https://i0.wp.com/blog.alexdevero.com/wp-content/uploads/2020/01/javascript-functions-all-you-need-to-know-pt.1.jpg?w=1024&ssl=1" alt="Project logo"></a>
-</p>
-
-<h1 align="center">Recreating Javascript Functions</h1>
+<h2 align="center">Recreating Javascript Functions 🎆</h2>
 
 <div align="center">
 
@@ -15,13 +10,13 @@
 
 <br>
 
-<h2>Notes:</h2>
+### Notes 🖋️ 
 
 <p>I was thinking... How all js libs have typing, if the minority of them were coded with Typescript? Researching a little I find that typescript has a resource named declaration, it generates a file with *.d.ts extension about a js file, and in it, all the typing are defined, working same typescript! Because it I decided to recriated Javascript function to explore this feature! OBS: newer functions will being added by time</p>
 
 <br>
 
-## Functions I did until now:
+### Functions I did until now :basecamp:
 
 + Array.prototype.at()
 + Array.prototype.concat()
@@ -37,5 +32,10 @@
 <hr>
 <br>
 
-## ✍️ Author - <a name = "author">Nathan Cotrim - MIT License</a>
+### Author 🗾
+
+Nathan Cotrim - MIT
+
+- https://github.com/NathanCotrim
+- https://linktr.ee/nate.sfteng
 
