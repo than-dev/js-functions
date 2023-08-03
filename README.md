@@ -10,13 +10,7 @@
 
 <br>
 
-### Notes 🖋️ 
-
-<p>I was thinking... How all js libs have typing, if the minority of them were coded with Typescript? Researching a little I find that typescript has a resource named declaration, it generates a file with *.d.ts extension about a js file, and in it, all the typing are defined, working same typescript! Because it I decided to recriated Javascript function to explore this feature! OBS: newer functions will being added by time</p>
-
-<br>
-
-### Functions I did until now :basecamp:
+### functions until now :basecamp:
 
 + Array.prototype.at()
 + Array.prototype.concat()
@@ -32,10 +26,10 @@
 <hr>
 <br>
 
-### Author 🗾
+### author 🗾
 
 Nathan Cotrim - MIT
 
-- https://github.com/NathanCotrim
+- https://github.com/than-dev
 - https://linktr.ee/nate.sfteng
 
